@@ -1,48 +1,164 @@
 <h1 align="center">Riya Dodiya</h1>
-<p align="center">B.Tech Computer Science (AI &amp; ML) · Geethanjali College of Engineering and Technology · Hyderabad</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riya-dodiya-67170837a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dodiyariya6@gmail.com"><img src="https://img.shields.io/badge/Email-dodiyariya6%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+B.Tech Computer Science (AI & ML)<br>
+Geethanjali College of Engineering and Technology, Hyderabad
 </p>
+
+<p align="center">
+Building AI-powered applications that combine machine learning, backend systems, and user-focused design.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-dodiya-67170837a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dodiyariya6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+## About Me
+
+```bash
+riya@github:~$ whoami
+
+B.Tech Computer Science (AI & ML) student.
+
+I enjoy building AI-powered applications that go beyond
+experiments and become complete products people can use.
+
+My interests include:
+- Machine Learning
+- Full-Stack Development
+- Generative AI
+- Backend Engineering
+- Applied AI Systems
+```
+
+## Currently
+
+```bash
+riya@github:~$ current_focus
+
+→ Building end-to-end AI applications
+→ Improving backend engineering skills
+→ Exploring RAG systems and LLM integrations
+→ Learning scalable software development practices
+```
+
+## Featured Projects
+
+### AI Gym Fitness Assistant
+
+Full-stack AI fitness platform combining:
+
+- Workout Tracking
+- AI Diet Planning
+- Webcam-based Exercise Analysis
+- Habit Tracking
+- Analytics Dashboard
+
+**Tech Stack**
+
+`React` `FastAPI` `PostgreSQL`
+`MediaPipe` `Gemini API`
+`SQLAlchemy`
+
+**Key Learning**
+
+The hardest challenge wasn't building the AI components—it was transforming fitness data into an interface users would consistently engage with.
 
 ---
 
-```
-riya@github:~$ about
-B.Tech student, AI & ML. I work across ML, backend, and small
-full systems — mostly projects where a model or an idea needs
-to become something a person can actually open and use.
+### News Credibility Analyser
 
-riya@github:~$ currently
-moving from ML-only builds toward full-stack development with
-AI woven into the product, not bolted on top of it.
-```
+Fake news classification system trained on 38,000+ news articles using TF-IDF and Logistic Regression.
 
-## Projects
+**Features**
 
-**AI Gym Fitness Assistant**
-A fitness app combining workout tracking, diet planning, and a webcam-based trainer with habit analytics. This is my largest project to date and the only one currently deployed — the harder problem wasn't the model, it was the interface: turning raw tracked data into something someone would actually check again the next day.
+- Explainable predictions
+- Keyword importance analysis
+- Streamlit deployment
 
-**News Credibility Analyser**
-A fake news classifier trained on 38,000+ articles using TF-IDF and Logistic Regression, deployed with Streamlit. Predictions come with the specific words that drove them, pulled from the model's own coefficients, so the output is explainable rather than a flat verdict. Testing it against a legitimately-reported article surfaced a bug worth mentioning: the model had learned to key off source formatting — the word "reuters," leftover caption text — instead of actual content. Traced and fixed the leak in preprocessing, and documented it in the repo.
+**Key Learning**
 
-**AI RAG Chatbot**
-A retrieval-augmented generation system built with LangChain, ChromaDB, and Google Gemini, grounded in Hugging Face embeddings. The core lesson here was that a language model is only as good as what it can retrieve — chunking and embedding strategy mattered more than prompt design.
+Discovered and fixed a preprocessing data-leak issue where source formatting influenced predictions more than article content.
 
-## Other repositories
+---
+
+### AI RAG Chatbot
+
+Retrieval-Augmented Generation chatbot built using LangChain and ChromaDB.
+
+**Tech Stack**
+
+`LangChain`
+`ChromaDB`
+`Hugging Face Embeddings`
+`Google Gemini`
+
+**Key Learning**
+
+Retrieval quality, chunking strategy, and embedding selection often have a greater impact than prompt engineering.
+
+## Other Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [Investment Optimizer](https://github.com/dodiyariya6/investment-optimizer) | Java Swing app that optimizes multi-stage investment allocation using dynamic programming | Java |
-| [Smart Traffic Management System](https://github.com/dodiyariya6/smart-traffic-management-system) | Traffic control simulation using the Banker's Algorithm for deadlock avoidance with emergency vehicle priority | HTML, JS |
-| [Multi-Game Portal](https://github.com/dodiyariya6/multi-game-portal) | Portal with authentication, leaderboards, and interactive browser games | PHP, JavaScript |
-| [Snake Game (Linked List)](https://github.com/dodiyariya6/Snake-Game-LinkedList-C) | Snake game built on a doubly linked list queue, with levels and obstacles | C |
+|----------|-------------|--------|
+| Investment Optimizer | Dynamic Programming based investment allocation optimizer | Java |
+| Smart Traffic Management System | Traffic simulation using Banker's Algorithm | HTML, CSS, JavaScript |
+| Multi-Game Portal | Authentication, leaderboards, and browser games | PHP, JavaScript |
+| Snake Game | Snake game implemented using Doubly Linked Lists | C |
 
-## Stack
+## Tech Stack
 
-`Python` `Java` `C` `JavaScript` `PHP` · `scikit-learn` `LangChain` `Streamlit` `Flask` · `Git`
+### Languages
 
-## Reach me
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[LinkedIn](https://www.linkedin.com/in/riya-dodiya-67170837a/) · [dodiyariya6@gmail.com](mailto:dodiyariya6@gmail.com)
+### AI & Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Leadership & Activities
+
+- Webmaster, IEEE SSIT Student Chapter
+- Active participant in AI/ML and software development communities
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dodiyariya6&show_icons=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodiyariya6&layout=compact"/>
+</p>
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/riya-dodiya-67170837a/
+- Email: dodiyariya6@gmail.com
+
+## Currently Building
+
+- AI Gym Fitness Assistant
+- Exploring RAG Architectures
+- Learning Full-Stack Development
