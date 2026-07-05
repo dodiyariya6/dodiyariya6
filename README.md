@@ -1,8 +1,7 @@
 <h1 align="center">Riya Dodiya</h1>
 
 <p align="center">
-B.Tech Computer Science (AI & ML)<br>
-Geethanjali College of Engineering and Technology, Hyderabad
+B.Tech Computer Science (AI & ML) | Geethanjali College of Engineering and Technology
 </p>
 
 <p align="center">
